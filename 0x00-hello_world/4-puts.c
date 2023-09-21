@@ -1,4 +1,4 @@
-#include < stdio.h>
+#include <stdio.h>
 /**
  * main - a program that prints a limme with puts functin
  * Return: 0
